@@ -4,9 +4,6 @@
   --very-dark-cyan: hsl(179, 100%, 13%);
   --transparent-white: hsla(0, 0%, 100%, 0.75); /*paragraphs*/
   --very-light-gray: hsl(0, 0%, 95%); /*background, headings, buttons*/
-}
-
-body {
-  font-family: "Lexend Deca", sans-serif;
-  font-size: 0.938rem;
+  --font-head: "Big Shoulders Display", cursive;
+  --font-body: "Lexend Deca", sans-serif;
 }

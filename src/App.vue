@@ -3,15 +3,7 @@ import PreviewCard from "./components/PreviewCard.vue";
 </script>
 
 <template>
-  <main>
-    <PreviewCard />
-  </main>
+  <PreviewCard />
 </template>
 
-<style scoped>
-main {
-  display: grid;
-  place-content: center;
-  min-height: 100vh;
-}
-</style>
+<style scoped></style>
